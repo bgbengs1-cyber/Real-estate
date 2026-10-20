@@ -1,0 +1,17 @@
+{
+  "name": "primehomes-lead-bot-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PrimeHomes Realty lead bot UI (scaffold)",
+  "scripts": {
+    "dev": "echo 'Provisional: pin toolchain (D-10) before running'",
+    "build": "echo 'Provisional: pin toolchain (D-10) before running'",
+    "test": "echo 'Provisional: pin toolchain (D-10) before running'",
+    "lint": "echo 'Provisional: pin toolchain (D-10) before running'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=20"
+  }
+}
